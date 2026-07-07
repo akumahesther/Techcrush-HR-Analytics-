@@ -17,4 +17,5 @@ Uniform formatting
 ## Key Insight
 Turnover is not evenly distributed across salary tiers — it's concentrated in one department. Sales has only 53.6% active staff (vs 65–73% elsewhere), a 32.1% resignation rate (nearly double every other department), the lowest average performance score (3.09 vs 3.5–3.6 company-wide), and the lowest average salary (₦306K vs ₦318K–₦425K elsewhere). Contract employees also resign at a notably higher rate (31.8%) than full-time staff (20.5%).
 
-## Recommendation: Prioritize a Sales-specific retention review (compensation benchmarking + manager support) rather than a blanket salary adjustment, since pay alone doesn't explain turnover in other departments.
+## Recommendation
+Prioritize a Sales-specific retention review (compensation benchmarking + manager support) rather than a blanket salary adjustment, since pay alone doesn't explain turnover in other departments.
