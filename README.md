@@ -19,3 +19,6 @@ Turnover is not evenly distributed across salary tiers — it's concentrated in 
 
 ## Recommendation
 Prioritize a Sales-specific retention review (compensation benchmarking + manager support) rather than a blanket salary adjustment, since pay alone doesn't explain turnover in other departments.
+
+## Tool Used 
+- Excel Power query 
